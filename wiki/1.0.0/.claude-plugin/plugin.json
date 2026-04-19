@@ -1,0 +1,19 @@
+{
+  "name": "wiki",
+  "description": "Knowledge base management for Karpathy-style wiki",
+  "version": "1.0.0",
+  "author": {
+    "name": "w3bgr3p",
+    "email": "user@example.com"
+  },
+  "homepage": "https://github.com/w3bgr3p/wiki-plugin",
+  "repository": "https://github.com/w3bgr3p/wiki-plugin",
+  "license": "MIT",
+  "keywords": [
+    "wiki",
+    "knowledge-base",
+    "karpathy",
+    "obsidian",
+    "llm"
+  ]
+}
